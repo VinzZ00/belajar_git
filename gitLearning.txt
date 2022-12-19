@@ -1,0 +1,9 @@
+1. git
+
+ a. Init repository -> folder untuk git
+ b. git status cara melihat ada file yang belum di track?
+ c. Track file git add 
+
+
+2. github
+
