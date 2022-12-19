@@ -3,6 +3,8 @@
  a. Init repository -> folder untuk git
  b. git status cara melihat ada file yang belum di track?
  c. Track file git add 
+ d. git commit -m "beri pesan";
+ e. git log
 
 
 2. github
